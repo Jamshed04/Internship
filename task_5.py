@@ -6,4 +6,4 @@ elif score == 1:
 elif score == 0:
     print("Проигрыш")
 else:
-    print("Error")
+    print("Error...")
